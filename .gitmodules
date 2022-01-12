@@ -1,4 +1,4 @@
-[submodule "module1"]
-	path = module1
+[submodule "clients/module1"]
+	path = clients/module1
 	url = git@github.com:mxie88/module1.git
 	branch = release/v1.0.0
